@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ApplikacijaZaIspit</string>
+    <string name="namirnice_hint">Unesite naziv namirnice</string>
+    <string name="kalorije_hint">Unesite kalorijsku vrijednost (kcal)</string>
+    <string name="btn_save">SAVE</string>
+    <string name="error_poruka">Polje mora biti ispunjeno!</string>
+
+</resources>
